@@ -84,5 +84,5 @@ python kidney_segmentation.py
 ## 🧑‍💻 Author
 
 **M Arslan Arshad**  
-Medical AI Enthusiast | Computer Vision Researcher
+Ml/AI Enthusiast | Computer Vision Researcher
 
